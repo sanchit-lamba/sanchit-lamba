@@ -1,13 +1,7 @@
-## Hi there 👋
+# 👋 🌏 HELLO FELLOW EARTHLING 🌏 👋
 
-<!--
-**sanchit-lamba/sanchit-lamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a gait pattern recognition algo
-- 🌱 I’m currently learning more python
+- 🔭 I’m currently working with ESG data filings. 
+- 🌱 I’m currently learning a bit of undergraduate level biology.
 - 👯 I’m looking to collaborate on anything provided it's interesting enough
 - 💬 Ask me about Anything I will google it for you
-- 📫 How to reach me: sanchit.cc
-
+- 📫 email me at [mail@sanchit.cc](mailto:mail@sanchit.cc) to tell me a fun fact.
