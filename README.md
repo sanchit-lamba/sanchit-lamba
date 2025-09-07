@@ -10,3 +10,7 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+
+
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
